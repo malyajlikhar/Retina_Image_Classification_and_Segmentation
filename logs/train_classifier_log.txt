@@ -1,0 +1,15 @@
+Epoch 1 | Train Loss: 1.9642 | Train Acc (Retino/Edema): 81.08%/90.00% | Val Loss: 0.4266 | Val Acc (Retino/Edema): 89.58%/96.48%
+Epoch 2 | Train Loss: 1.2604 | Train Acc (Retino/Edema): 95.94%/98.21% | Val Loss: 0.1449 | Val Acc (Retino/Edema): 96.34%/99.44%
+Epoch 3 | Train Loss: 1.1137 | Train Acc (Retino/Edema): 97.40%/98.63% | Val Loss: 0.1194 | Val Acc (Retino/Edema): 97.45%/99.07%
+Epoch 4 | Train Loss: 0.9957 | Train Acc (Retino/Edema): 97.55%/99.15% | Val Loss: 0.1756 | Val Acc (Retino/Edema): 96.81%/96.71%
+Epoch 5 | Train Loss: 0.9111 | Train Acc (Retino/Edema): 97.95%/98.84% | Val Loss: 0.0610 | Val Acc (Retino/Edema): 98.43%/99.44%
+Epoch 6 | Train Loss: 0.8327 | Train Acc (Retino/Edema): 98.21%/99.11% | Val Loss: 0.0564 | Val Acc (Retino/Edema): 98.80%/99.26%
+Epoch 7 | Train Loss: 0.7636 | Train Acc (Retino/Edema): 98.44%/99.07% | Val Loss: 0.0485 | Val Acc (Retino/Edema): 99.07%/99.68%
+Epoch 8 | Train Loss: 0.7143 | Train Acc (Retino/Edema): 98.34%/98.96% | Val Loss: 0.1041 | Val Acc (Retino/Edema): 98.38%/99.35%
+Epoch 9 | Train Loss: 0.6577 | Train Acc (Retino/Edema): 98.78%/99.42% | Val Loss: 0.1116 | Val Acc (Retino/Edema): 98.43%/98.70%
+Epoch 10 | Train Loss: 0.6241 | Train Acc (Retino/Edema): 98.60%/99.53% | Val Loss: 0.0320 | Val Acc (Retino/Edema): 98.80%/99.72%
+Epoch 11 | Train Loss: 0.5851 | Train Acc (Retino/Edema): 98.81%/99.29% | Val Loss: 0.0604 | Val Acc (Retino/Edema): 99.17%/99.40%
+Epoch 12 | Train Loss: 0.5512 | Train Acc (Retino/Edema): 98.73%/99.35% | Val Loss: 0.1322 | Val Acc (Retino/Edema): 98.66%/98.10%
+Epoch 13 | Train Loss: 0.5233 | Train Acc (Retino/Edema): 98.69%/99.36% | Val Loss: 0.0986 | Val Acc (Retino/Edema): 97.55%/99.17%
+Epoch 14 | Train Loss: 0.5042 | Train Acc (Retino/Edema): 98.78%/99.39% | Val Loss: 0.0906 | Val Acc (Retino/Edema): 98.10%/99.12%
+Epoch 15 | Train Loss: 0.4721 | Train Acc (Retino/Edema): 98.93%/99.53% | Val Loss: 0.0740 | Val Acc (Retino/Edema): 98.70%/98.94%
